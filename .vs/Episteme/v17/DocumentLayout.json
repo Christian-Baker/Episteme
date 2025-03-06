@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Dev\\Episteme\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91BA2A62-98B6-4798-A940-A2FFF80E6BB5}|Sandbox\\Sandbox.vcxproj|C:\\Dev\\Episteme\\Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91BA2A62-98B6-4798-A940-A2FFF80E6BB5}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{91BA2A62-98B6-4798-A940-A2FFF80E6BB5}|Sandbox\\Sandbox.vcxproj|C:\\Dev\\Episteme\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BA2A62-98B6-4798-A940-A2FFF80E6BB5}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme.vcxproj|C:\\Dev\\Episteme\\Episteme\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme.vcxproj|solutionrelative:Episteme\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme\\Episteme.vcxproj|C:\\Dev\\Episteme\\Episteme\\src\\Episteme.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme\\Episteme.vcxproj|solutionrelative:Episteme\\src\\Episteme.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme.vcxproj|C:\\Dev\\Episteme\\Episteme\\src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme.vcxproj|solutionrelative:Episteme\\src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme\\Episteme.vcxproj|C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme\\Episteme.vcxproj|solutionrelative:Episteme\\src\\Episteme\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BA2A62-98B6-4798-A940-A2FFF80E6BB5}|Sandbox\\Sandbox.vcxproj|C:\\DEV\\EPISTEME\\EPISTEME\\SRC\\EPISTEME\\APPLICATION.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BA2A62-98B6-4798-A940-A2FFF80E6BB5}|Sandbox\\Sandbox.vcxproj|solutionrelative:EPISTEME\\SRC\\EPISTEME\\APPLICATION.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme\\Episteme.vcxproj|C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme\\Episteme.vcxproj|solutionrelative:Episteme\\src\\Episteme\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme\\Episteme.vcxproj|C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE8D40A6-EB9C-4379-9C6D-5C347A168F95}|Episteme\\Episteme.vcxproj|solutionrelative:Episteme\\src\\Episteme\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Application.cpp",
-              "DocumentMoniker": "C:\\Dev\\Episteme\\Sandbox\\src\\Application.cpp",
-              "RelativeDocumentMoniker": "Sandbox\\src\\Application.cpp",
-              "ToolTip": "C:\\Dev\\Episteme\\Sandbox\\src\\Application.cpp",
-              "RelativeToolTip": "Sandbox\\src\\Application.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T14:06:01.101Z",
+              "DocumentIndex": 2,
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\EntryPoint.h",
+              "RelativeDocumentMoniker": "Episteme\\src\\Episteme\\EntryPoint.h",
+              "ToolTip": "C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\EntryPoint.h",
+              "RelativeToolTip": "Episteme\\src\\Episteme\\EntryPoint.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T22:01:23.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Test.cpp",
-              "DocumentMoniker": "C:\\Dev\\Episteme\\Episteme\\src\\Test.cpp",
-              "RelativeDocumentMoniker": "Episteme\\src\\Test.cpp",
-              "ToolTip": "C:\\Dev\\Episteme\\Episteme\\src\\Test.cpp",
-              "RelativeToolTip": "Episteme\\src\\Test.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "DocumentIndex": 3,
+              "Title": "Application.h",
+              "DocumentMoniker": "C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\Application.h",
+              "RelativeDocumentMoniker": "Episteme\\src\\Episteme\\Application.h",
+              "ToolTip": "C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\Application.h",
+              "RelativeToolTip": "Episteme\\src\\Episteme\\Application.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T21:55:44.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SandboxApp.cpp",
+              "DocumentMoniker": "C:\\Dev\\Episteme\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\src\\SandboxApp.cpp",
+              "ToolTip": "C:\\Dev\\Episteme\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T13:37:55.742Z",
+              "WhenOpened": "2025-03-06T21:52:55.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Test.h",
-              "DocumentMoniker": "C:\\Dev\\Episteme\\Episteme\\src\\Test.h",
-              "RelativeDocumentMoniker": "Episteme\\src\\Test.h",
-              "ToolTip": "C:\\Dev\\Episteme\\Episteme\\src\\Test.h",
-              "RelativeToolTip": "Episteme\\src\\Test.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Title": "Episteme.h",
+              "DocumentMoniker": "C:\\Dev\\Episteme\\Episteme\\src\\Episteme.h",
+              "RelativeDocumentMoniker": "Episteme\\src\\Episteme.h",
+              "ToolTip": "C:\\Dev\\Episteme\\Episteme\\src\\Episteme.h",
+              "RelativeToolTip": "Episteme\\src\\Episteme.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-06T13:37:41.017Z",
+              "WhenOpened": "2025-03-06T16:51:55.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Core.h",
+              "DocumentMoniker": "C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\Core.h",
+              "RelativeDocumentMoniker": "Episteme\\src\\Episteme\\Core.h",
+              "ToolTip": "C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\Core.h",
+              "RelativeToolTip": "Episteme\\src\\Episteme\\Core.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T16:08:32.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\Application.cpp",
+              "RelativeDocumentMoniker": "Episteme\\src\\Episteme\\Application.cpp",
+              "ToolTip": "C:\\Dev\\Episteme\\Episteme\\src\\Episteme\\Application.cpp",
+              "RelativeToolTip": "Episteme\\src\\Episteme\\Application.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T16:08:18.535Z",
               "EditorCaption": ""
             }
           ]
