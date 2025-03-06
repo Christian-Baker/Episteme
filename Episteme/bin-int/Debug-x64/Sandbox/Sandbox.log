@@ -1,0 +1,3 @@
+﻿  Application.cpp
+C:\Dev\Episteme\Sandbox\src\Application.cpp(7,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Sandbox.vcxproj -> C:\Dev\Episteme\Episteme\bin\Debug-x64\Sandbox\Sandbox.exe
